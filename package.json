@@ -1,0 +1,14 @@
+{
+  "name": "Pickur",
+  "description": "Pickur is a simple HEX/RGB converter, and a simple color picker",
+  "version": "0.1.0",
+  "main": "main.js",
+  "license": "MIT",
+  "author": "Luka Kerr",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^1.4.15"
+  }
+}
